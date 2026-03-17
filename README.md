@@ -1,4 +1,4 @@
- DataVision – Smart Data Visualization web application
+## DataVision – Smart Data Visualization web application
 
 DataVision is a web application that allows users to upload CSV datasets and instantly generate **interactive charts and insights** without coding.
 
